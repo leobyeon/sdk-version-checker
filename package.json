@@ -1,0 +1,15 @@
+{
+  "name": "sdkversion-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leo byeon",
+  "license": "ISC",
+  "dependencies": {
+    "findit": "^2.0.0",
+    "parse-md": "^3.0.3"
+  }
+}
